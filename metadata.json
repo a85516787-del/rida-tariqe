@@ -1,0 +1,7 @@
+{
+  "name": "Copy of L'Académie de Français",
+  "description": "A comprehensive French language learning platform with interactive lessons, an AI tutor, and educational resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
